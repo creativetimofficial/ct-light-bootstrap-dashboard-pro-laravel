@@ -1,8 +1,8 @@
-# [Light Bootstrap Dashboard Pro Laravel](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/?ref=mdpl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Light%20Bootstrap%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//light-bootstrap-dashboard-pro-laravel.creative-tim.com/%20%23%light-bootstrap%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
+# [Light Bootstrap Dashboard Pro Laravel](https://www.creative-tim.com/live/light-bootstrap-dashboard-pro-laravel/?ref=lbdpl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Light%20Bootstrap%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//light-bootstrap-dashboard-pro-laravel.creative-tim.com/%20%23%light-bootstrap%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
 
 ![version](https://img.shields.io/badge/version-2.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-light-bootstrap-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-light-bootstrap-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-light-bootstrap-dashboard-pro-laravel/ct-light-bootstrap-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-light-bootstrap-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
-*Frontend version*: Light Bootstrap Dashboard v2.0.1. More info at https://www.creative-tim.com/product/light-bootstrap-dashboard-pro
+*Frontend version*: Light Bootstrap Dashboard v2.0.1. More info at https://www.creative-tim.com/product/light-bootstrap-dashboard-pro/?ref=lbdpl-readme
 
 ![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/intro.gif?raw=true)
 
@@ -317,26 +317,26 @@ The policy which authorizes the user on item management pages is implemented in 
 
 ## Versions
 
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=lbdl-readme)
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=lbdl-readme)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=lbdpl-readme)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=lbdpl-readme)
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Light Bootstrap Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html?ref=lbdl-readme) | [![Light Bootstrap Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/?ref=lbdl-readme)
+| [![Light Bootstrap Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/34/original/opt_lbd_pro_thumbnail.jpg?1512732672)](https://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html?ref=lbdpl-readme) | [![Light Bootstrap Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/212/original/opt_lbdp_laravel_thumbnail.jpg?1567087387)](https://www.creative-tim.com/live/light-bootstrap-dashboard-pro-laravel?ref=lbdpl-readme)
 
 ## Demo
 
 | Register | Login | Dashboard |
 | --- | --- | ---  |
-| [![Register](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/register.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/register?ref=lbdl-readme) | [![Login](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/login.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/login?ref=lbdl-readme) | [![Dashboard](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/dashboard.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/?ref=lbdl-readme)
+| [![Register](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/register.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/register?ref=lbdpl-readme) | [![Login](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/login.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/login?ref=lbdpl-readme) | [![Dashboard](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/dashboard.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/?ref=lbdpl-readme)
 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
-| [![Profile Page](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/profile.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/profile?ref=lbdl-readme)  | [![Users Page](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/users.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/user?ref=lbdl-readme) | [![Tables Page](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/tables.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/table-list?ref=lbdl-readme)
-[View More](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/?ref=lbdl-readme)
+| [![Profile Page](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/profile.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/profile?ref=lbdpl-readme)  | [![Users Page](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/users.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/user?ref=lbdpl-readme) | [![Tables Page](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/tables.png)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/table-list?ref=lbdpl-readme)
+[View More](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/?ref=lbdpl-readme)
 
 ## Documentation
-The documentation for the Light Bootstrap Dashboard Laravel is hosted at our [website](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=mdpl-readme).
+The documentation for the Light Bootstrap Dashboard Laravel is hosted at our [website](https://www.creative-tim.com/live/light-bootstrap-dashboard-pro-laravel/?start-page=/docs/tutorial-components.html&ref=lbdpl-readme).
 
 ## File Structure
 ```
@@ -746,17 +746,17 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/?ref=lbdl-readme>
-- Download Page: <https://www.creative-tim.com/product/light-bootstrap-dashboard-pro-laravel?ref=lbdl-readme>
-- Documentation: <https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=lbdl-readme>
-- License Agreement: <https://www.creative-tim.com/license>
-- Support: <https://www.creative-tim.com/contact-us>
+- Demo: <https://www.creative-tim.com/live/light-bootstrap-dashboard-pro-laravel?ref=lbdpl-readme>
+- Download Page: <https://www.creative-tim.com/product/light-bootstrap-dashboard-pro-laravel?ref=lbdpl-readme>
+- Documentation: <https://www.creative-tim.com/live/light-bootstrap-dashboard-pro-laravel/?start-page=/docs/tutorial-components.html&ref=lbdpl-readme>
+- License Agreement: <https://www.creative-tim.com/license/?ref=lbdpl-readme>
+- Support: <https://www.creative-tim.com/contact-us/?ref=lbdpl-readme>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/light-bootstrap-dashboard-pro-laravel/issues)
 - **Dashboards:**
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Light Bootstrap Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html?ref=lbdl-readme) | [![Light Bootstrap Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://light-bootstrap-dashboard-pro-laravel.creative-tim.com/?ref=lbdl-readme)
+| [![Light Bootstrap Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/34/original/opt_lbd_pro_thumbnail.jpg?1512732672)](https://demos.creative-tim.com/light-bootstrap-dashboard-pro/examples/dashboard.html?ref=lbdpl-readme) | [![Light Bootstrap Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/212/original/opt_lbdp_laravel_thumbnail.jpg?1567087387)](https://www.creative-tim.com/live/light-bootstrap-dashboard-pro-laravel/?ref=lbdpl-readme)
 
 ## Change log
 
@@ -764,21 +764,21 @@ Please see the [changelog](CHANGELOG.md) for more information on what has change
 
 ## Credits
 
-- [Creative Tim](https://creative-tim.com/?ref=lbdl-readme)
+- [Creative Tim](https://creative-tim.com/?ref=lbdpl-readme)
 - [UPDIVISION](https://updivision.com)
 
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Light Bootstrap Dashboard Laravel. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Light Bootstrap Dashboard Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=lbdl-readme).
+1. Make sure that you are using the latest version of the Light Bootstrap Dashboard Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=lbdpl-readme).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Licensing
 
-- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=lbdl-readme)
-- [Creative Tim License](https://www.creative-tim.com/license).
+- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=lbdpl-readme)
+- [Creative Tim License](https://www.creative-tim.com/license/?ref=lbdpl-readme).
 
 
 ## Useful Links
@@ -787,37 +787,37 @@ We use GitHub Issues as the official bug tracker for the Light Bootstrap Dashboa
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 - [Blog Creative Tim](http://blog.creative-tim.com/)
 - [Free Products](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=lbdl-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=lbdl-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=lbdl-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=lbdl-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=lbdl-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles??ref=lbdl-readme)
+- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=lbdpl-readme) from Creative Tim
+- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=lbdpl-readme) from Creative Tim
+- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=lbdpl-readme) from Creative Tim
+- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=lbdpl-readme) from Creative Tim
+- [More products](https://www.creative-tim.com/bootstrap-themes?ref=lbdpl-readme) from Creative Tim
+- Check our Bundles [here](https://www.creative-tim.com/bundles??ref=lbdpl-readme)
 
 ## Social Media
 
 ### Creative Tim:
 
-Twitter: <https://twitter.com/CreativeTim?ref=lbdl-readme>
+Twitter: <https://twitter.com/CreativeTim?ref=lbdpl-readme>
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=lbdl-readme>
+Facebook: <https://www.facebook.com/CreativeTim?ref=lbdpl-readme>
 
-Dribbble: <https://dribbble.com/creativetim?ref=lbdl-readme>
+Dribbble: <https://dribbble.com/creativetim?ref=lbdpl-readme>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=lbdl-readme>
+Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=lbdpl-readme>
 
 
 ### Updivision:
 
-Twitter: <https://twitter.com/updivision?ref=lbdl-readme>
+Twitter: <https://twitter.com/updivision?ref=lbdpl-readme>
 
-Facebook: <https://www.facebook.com/updivision?ref=lbdl-readme>
+Facebook: <https://www.facebook.com/updivision?ref=lbdpl-readme>
 
-Linkedin: <https://www.linkedin.com/company/updivision?ref=lbdl-readme>
+Linkedin: <https://www.linkedin.com/company/updivision?ref=lbdpl-readme>
 
-Updivision Blog: <https://updivision.com/blog/?ref=lbdl-readme>
+Updivision Blog: <https://updivision.com/blog/?ref=lbdpl-readme>
 
 ## Credits
 
-- [Creative Tim](https://creative-tim.com/?ref=mdpl-readme)
+- [Creative Tim](https://creative-tim.com/?ref=lbdpl-readme)
 - [UPDIVISION](https://updivision.com)
