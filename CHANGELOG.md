@@ -14,3 +14,7 @@ All notable changes to `Laravel Light BootstrapDashboard Pro` theme for Laravel 
 - Category CRUD
 - Item CRUD
 - User roles & access restrictions
+
+## Version 1.0.1
+
+- Update to Laravel 6.x
