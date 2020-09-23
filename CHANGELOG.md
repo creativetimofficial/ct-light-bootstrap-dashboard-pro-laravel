@@ -22,3 +22,7 @@ All notable changes to `Laravel Light BootstrapDashboard Pro` theme for Laravel 
 ## Version 1.0.2
 
 - Update to Laravel 7.x
+
+## Version 1.0.3
+
+- Update to Laravel 8.x
