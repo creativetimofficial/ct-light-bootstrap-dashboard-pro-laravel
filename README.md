@@ -751,7 +751,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://www.creative-tim.com/live/light-bootstrap-dashboard-pro-laravel/?start-page=/docs/tutorial-components.html&ref=lbdpl-readme>
 - License Agreement: <https://www.creative-tim.com/license/?ref=lbdpl-readme>
 - Support: <https://www.creative-tim.com/contact-us/?ref=lbdpl-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/light-bootstrap-dashboard-pro-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-light-bootstrap-dashboard-pro-laravel/issues)
 - **Dashboards:**
 
 | HTML | LARAVEL |
@@ -778,7 +778,7 @@ We use GitHub Issues as the official bug tracker for the Light Bootstrap Dashboa
 ## Licensing
 
 - Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=lbdpl-readme)
-- [Creative Tim License](https://www.creative-tim.com/license/?ref=lbdpl-readme).
+- Creative Tim License (https://www.creative-tim.com/license/?ref=lbdpl-readme).
 
 
 ## Useful Links
