@@ -4,7 +4,7 @@
 
 *Frontend version*: Light Bootstrap Dashboard v2.0.1. More info at https://www.creative-tim.com/product/light-bootstrap-dashboard-pro/?ref=lbdpl-readme
 
-![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/light-bootstrap-dashboard-pro-laravel/intro.gif?raw=true)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/212/original/opt_lbdp_laravel_thumbnail.jpg?1567087387" width="100%" />](https://www.creative-tim.com/live/light-bootstrap-dashboard-pro-laravel?ref=lbdpl-readme)
 
 Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 8.x and up.
 
